@@ -1,5 +1,6 @@
 # Homework 4 
 
+Our hypothetical company can be a Telecom company, with a budget of $100000 and $10 cost per action.
 We can decide who to target based on the graph analysis and centrality scores in the following ways:
 
 Target the Largest Community: We may be able to reach a huge number of clients and maximize our marketing efforts by focusing on this neighborhood. This group could comprise devoted clients or influential people who could act as brand ambassadors for our telecom services.
